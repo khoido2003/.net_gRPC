@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoGrpc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+491dbaa72f4a237024dbcd807d9ffa90eca754b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoGrpc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoGrpc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
